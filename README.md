@@ -5,3 +5,8 @@
 ## The code here includes: 
 - smart contract 
 - [Flux Queries](./FluxQueries.md) that are used in Grafana dashboards
+
+## Technologies used : 
+- InfluxDB 2.0
+- Grafana 
+- Solidity
