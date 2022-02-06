@@ -8,7 +8,8 @@
 
 ### Link to UOI (Unique Object Identifier) project:
 - https://github.com/ReCheck-io/UOI_Project (API)
-- https://github.com/ReCheck-io/uoi-frontend (Frontend) - Can be used to play with the project
+- https://github.com/ReCheck-io/uoi-frontend (Frontend) -
+- https://uoi-frontend.recheck.io/ - Can be used to play with the project
 
 
 ## Technologies used : 
